@@ -1,13 +1,15 @@
 # Data-Bill
 University Project at Parsons School of Design - My final project done during my elective class "Emerging Objects".
 
+ # View detailed project here: https://www.notion.so/ishaand/Emergent-Objects-Final-Receipt-Printer-Interface-24cf3bc428604339ae6cbab6b6c6c80c
+
 # Concept
 
-An object with an interface comprising of a thermal reciept printer, an LCD screen, and two buttons. User to fill a form with few points of personal information. This form is then inserted in into a slot on the device, and a reciept is printed showcasing how much each data point was worth in USD($).
+An object with an interface comprising of a thermal receipt printer, an LCD screen, and two buttons. Users fill out a form with a few points of personal information. This form is then inserted into a slot on the device, and a receipt is printed showcasing how much each data point was worth in USD($).
 
-By pressing the greeb button the user agrees to the privacy policy. By pressing the red button, the user recieves the reciept.
+By pressing the green button the user agrees to the privacy policy. By pressing the red button, the user receives the receipt.
 
-This is to visualize how user data is monetized by tech corporations. 
+This is to visualize how user data is monetized by tech corporations.
 
 ## Hardware Parts List
 
