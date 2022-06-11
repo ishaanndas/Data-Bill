@@ -1,7 +1,7 @@
 # Data-Bill
 University Project at Parsons School of Design - My final project done during my elective class "Emerging Objects".
 
- # View Full Project <a href="https://www.notion.so/ishaand/Emergent-Objects-Final-Receipt-Printer-Interface-24cf3bc428604339ae6cbab6b6c6c80c" target="_blank">Here</a>.
+ # View Demo Video <a href="https://www.youtube.com/watch?v=LtKMDhJJcBs" target="_blank">Here</a>.
 
 # Concept
 
